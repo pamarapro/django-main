@@ -1,0 +1,27 @@
+
+PRODUCT EDITING
+
+2 colums
+HEAD: TITLE
+
+LEFT:
+- Tên sản phẩm
+- Nội dung
+- Mô tả ngắn
+- Ảnh sản phẩm
+- Thuộc tính
+- Xem trước SEO
+
+RIGHT:
+- Trạng thái
+- Phân loại: Danh mục, Thương hiệu
+- Tags:
+- 
+
+BOTTOM:
+- BTN: Xoá, lưu..
+
+
+
+DANH MỤC SẢN PHẨM
+
